@@ -4621,8 +4621,52 @@ J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 
 http://api.mytv666.top/lives/free.php?type=txt,#genre#
 https://iptv.catvod.com/tv.m3u,#genre#
-🎁云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=4
-🎁内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=4
+🎁CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=1
+🎁CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=2
+🎁CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=3
+🎁CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=4
+🎁CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=5
+🎁CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=6
+🎁CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=7
+🎁CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=8
+🎁CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=9
+🎁CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=10
+🎁CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=11
+🎁CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=12
+🎁CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
+🎁CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
+🎁CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
+🎁陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1
+🎁陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=2
+🎁陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=3
+🎁陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=4
+🎁陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=5
+🎁陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=6
+🎁体育休闲频道,https://iptv.catvod.com/live.php?id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=1
+🎁体育休闲频道,https://iptv.catvod.com/live.php?id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=2
+🎁体育休闲频道,https://iptv.catvod.com/live.php?id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=3
+🎁体育休闲频道,https://iptv.catvod.com/live.php?id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=4
+🎁体育休闲频道,https://iptv.catvod.com/live.php?id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=5
+🎁法甲布雷斯特VS马赛同看冬奥会02:45,https://iptv.catvod.com/live.php?id=%E6%B3%95%E7%94%B2%20%E5%B8%83%E9%9B%B7%E6%96%AF%E7%89%B9VS%E9%A9%AC%E8%B5%9B%20%E5%90%8C%E7%9C%8B%E5%86%AC%E5%A5%A5%E4%BC%9A%2002%3A45&line=1
+🎁法甲布雷斯特VS马赛同看冬奥会02:45,https://iptv.catvod.com/live.php?id=%E6%B3%95%E7%94%B2%20%E5%B8%83%E9%9B%B7%E6%96%AF%E7%89%B9VS%E9%A9%AC%E8%B5%9B%20%E5%90%8C%E7%9C%8B%E5%86%AC%E5%A5%A5%E4%BC%9A%2002%3A45&line=2
+🎁法甲布雷斯特VS马赛同看冬奥会02:45,https://iptv.catvod.com/live.php?id=%E6%B3%95%E7%94%B2%20%E5%B8%83%E9%9B%B7%E6%96%AF%E7%89%B9VS%E9%A9%AC%E8%B5%9B%20%E5%90%8C%E7%9C%8B%E5%86%AC%E5%A5%A5%E4%BC%9A%2002%3A45&line=3
+🎁法甲布雷斯特VS马赛同看冬奥会02:45,https://iptv.catvod.com/live.php?id=%E6%B3%95%E7%94%B2%20%E5%B8%83%E9%9B%B7%E6%96%AF%E7%89%B9VS%E9%A9%AC%E8%B5%9B%20%E5%90%8C%E7%9C%8B%E5%86%AC%E5%A5%A5%E4%BC%9A%2002%3A45&line=4
+🎁西甲毕尔巴鄂竞技VS埃尔切赛场原声03:45,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E7%94%B2%20%E6%AF%95%E5%B0%94%E5%B7%B4%E9%84%82%E7%AB%9E%E6%8A%80VS%E5%9F%83%E5%B0%94%E5%88%87%20%E8%B5%9B%E5%9C%BA%E5%8E%9F%E5%A3%B0%2003%3A45&line=1
+🎁西甲毕尔巴鄂竞技VS埃尔切赛场原声03:45,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E7%94%B2%20%E6%AF%95%E5%B0%94%E5%B7%B4%E9%84%82%E7%AB%9E%E6%8A%80VS%E5%9F%83%E5%B0%94%E5%88%87%20%E8%B5%9B%E5%9C%BA%E5%8E%9F%E5%A3%B0%2003%3A45&line=2
+🎁西甲毕尔巴鄂竞技VS埃尔切赛场原声03:45,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E7%94%B2%20%E6%AF%95%E5%B0%94%E5%B7%B4%E9%84%82%E7%AB%9E%E6%8A%80VS%E5%9F%83%E5%B0%94%E5%88%87%20%E8%B5%9B%E5%9C%BA%E5%8E%9F%E5%A3%B0%2003%3A45&line=3
+🎁西甲毕尔巴鄂竞技VS埃尔切赛场原声03:45,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E7%94%B2%20%E6%AF%95%E5%B0%94%E5%B7%B4%E9%84%82%E7%AB%9E%E6%8A%80VS%E5%9F%83%E5%B0%94%E5%88%87%20%E8%B5%9B%E5%9C%BA%E5%8E%9F%E5%A3%B0%2003%3A45&line=4
+🎁意甲尤文图斯VS科莫吴桐刘腾21:30,https://iptv.catvod.com/live.php?id=%E6%84%8F%E7%94%B2%20%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AFVS%E7%A7%91%E8%8E%AB%20%E5%90%B4%E6%A1%90%20%E5%88%98%E8%85%BE%2021%3A30&line=1
+🎁意甲尤文图斯VS科莫吴桐刘腾21:30,https://iptv.catvod.com/live.php?id=%E6%84%8F%E7%94%B2%20%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AFVS%E7%A7%91%E8%8E%AB%20%E5%90%B4%E6%A1%90%20%E5%88%98%E8%85%BE%2021%3A30&line=2
+🎁意甲尤文图斯VS科莫吴桐刘腾21:30,https://iptv.catvod.com/live.php?id=%E6%84%8F%E7%94%B2%20%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AFVS%E7%A7%91%E8%8E%AB%20%E5%90%B4%E6%A1%90%20%E5%88%98%E8%85%BE%2021%3A30&line=3
+🎁意甲尤文图斯VS科莫吴桐刘腾21:30,https://iptv.catvod.com/live.php?id=%E6%84%8F%E7%94%B2%20%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AFVS%E7%A7%91%E8%8E%AB%20%E5%90%B4%E6%A1%90%20%E5%88%98%E8%85%BE%2021%3A30&line=4
+🎁德甲柏林联VS勒沃库森赛场原声22:15,https://iptv.catvod.com/live.php?id=%E5%BE%B7%E7%94%B2%20%E6%9F%8F%E6%9E%97%E8%81%94VS%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE%20%E8%B5%9B%E5%9C%BA%E5%8E%9F%E5%A3%B0%2022%3A15&line=1
+🎁德甲柏林联VS勒沃库森赛场原声22:15,https://iptv.catvod.com/live.php?id=%E5%BE%B7%E7%94%B2%20%E6%9F%8F%E6%9E%97%E8%81%94VS%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE%20%E8%B5%9B%E5%9C%BA%E5%8E%9F%E5%A3%B0%2022%3A15&line=2
+🎁德甲柏林联VS勒沃库森赛场原声22:15,https://iptv.catvod.com/live.php?id=%E5%BE%B7%E7%94%B2%20%E6%9F%8F%E6%9E%97%E8%81%94VS%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE%20%E8%B5%9B%E5%9C%BA%E5%8E%9F%E5%A3%B0%2022%3A15&line=3
+🎁德甲柏林联VS勒沃库森赛场原声22:15,https://iptv.catvod.com/live.php?id=%E5%BE%B7%E7%94%B2%20%E6%9F%8F%E6%9E%97%E8%81%94VS%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE%20%E8%B5%9B%E5%9C%BA%E5%8E%9F%E5%A3%B0%2022%3A15&line=4
+🎁英超布伦特福德VS布莱顿赛场原声22:45,https://iptv.catvod.com/live.php?id=%E8%8B%B1%E8%B6%85%20%E5%B8%83%E4%BC%A6%E7%89%B9%E7%A6%8F%E5%BE%B7VS%E5%B8%83%E8%8E%B1%E9%A1%BF%20%E8%B5%9B%E5%9C%BA%E5%8E%9F%E5%A3%B0%2022%3A45&line=1
+🎁英超布伦特福德VS布莱顿赛场原声22:45,https://iptv.catvod.com/live.php?id=%E8%8B%B1%E8%B6%85%20%E5%B8%83%E4%BC%A6%E7%89%B9%E7%A6%8F%E5%BE%B7VS%E5%B8%83%E8%8E%B1%E9%A1%BF%20%E8%B5%9B%E5%9C%BA%E5%8E%9F%E5%A3%B0%2022%3A45&line=2
+🎁英超布伦特福德VS布莱顿赛场原声22:45,https://iptv.catvod.com/live.php?id=%E8%8B%B1%E8%B6%85%20%E5%B8%83%E4%BC%A6%E7%89%B9%E7%A6%8F%E5%BE%B7VS%E5%B8%83%E8%8E%B1%E9%A1%BF%20%E8%B5%9B%E5%9C%BA%E5%8E%9F%E5%A3%B0%2022%3A45&line=3
+🎁英超布伦特福德VS布莱顿赛场原声22:45,https://iptv.catvod.com/live.php?id=%E8%8B%B1%E8%B6%85%20%E5%B8%83%E4%BC%A6%E7%89%B9%E7%A6%8F%E5%BE%B7VS%E5%B8%83%E8%8E%B1%E9%A1%BF%20%E8%B5%9B%E5%9C%BA%E5%8E%9F%E5%A3%B0%2022%3A45&line=4
 
 
 https://framagit.org/knnnn/n/-/raw/main/j/kzb.py,#genre#
@@ -4774,6 +4818,13 @@ https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
 
 
 https://live.izbds.com/tv/iptv4.m3u,#genre#
+高尔夫网球,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG-e3QckERZBl56YxtpoYfDGwq2hCqEtXRoH1-aNPIfwb62xpr4bS4Lh9_TUvJJYUUb7oYz-ve30vAfwpogpKGdXmWpenXLLLEPUIauWI89xWxRLLlcrfPXhagvMXr1Z9i4FStTDgAyd5IQE_lRPZyufIWsnNqaHTApBF1DulV-qDXYUlqYoUjFXbyHAtWE-DHSF_aWC2t_X9an6ben_g0wg.m3u8?u=1757123819
+悬疑武侠电影九门,https://yylunbo.ottiptv.cc/yy/1382828768
+欧美配音电影,https://yylunbo.ottiptv.cc/yy/1354693629
+电影电影电影电影电影电影,https://yylunbo.ottiptv.cc/yy/1351496216
+电影黑豹,https://yylunbo.ottiptv.cc/yy/1382736816
+经典电影港片枪战,https://yylunbo.ottiptv.cc/yy/1355076627
+野山鹰影视剧,https://yylunbo.ottiptv.cc/yy/1354932395
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -4797,6 +4848,9 @@ https://live.izbds.com/tv/iptv4.m3u,#genre#
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 靖宇,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 龙井,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
+大家都在看的电视剧,https://yylunbo.ottiptv.cc/yy/1354930964
+百家讲坛红楼梦篇,https://yylunbo.ottiptv.cc/yy/1382741639
+进来陪你看电视,https://yylunbo.ottiptv.cc/yy/1353518742
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 
@@ -4843,7 +4897,9 @@ TV5MONDESTYLE生活时尚「4gTV」,https://tv.iill.top/4gtv/4gtv-live122
 东森购物一「4gTV」,https://tv.iill.top/4gtv/4gtv-live047
 东森购物三「4gTV」,https://tv.iill.top/4gtv/4gtv-live048
 新唐人亚太「4gTV」,https://tv.iill.top/4gtv/4gtv-live050
+翡翠台「多音轨字幕」,https://o11.163189.xyz/stream/tvb/fct/
 明珠台「多音轨字幕」,https://o11.163189.xyz/stream/tvb/mzt/
+娱乐新闻台,https://cdn6.163189.xyz/163189/ylxw
 TVB星河「多音轨字幕」,https://o11.163189.xyz/stream/live/tvbxh/
 广州南国都市,http://dxa.yiandrive.com:39191/gztv/shenghuo
 湖南卫视「回看」,https://tv.iill.top/migu/hnws
@@ -5064,9 +5120,7 @@ https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 fifapluswomen[geo-blocked],https://stream1.freetv.fun/37352d9c0bf11af3c0f24364a03a8847b73ae1cc541b6a8ccdcb34db009cc9c5.m3u8
 детский6plus[geo-blocked],rtmp://vkvsd21.okcdn.ru/playback/9707377929063?stkn=DFG1rqI3FgXeZ_htnEwsbN6VQTD1f94i2q76f9zRxAS8Cfi2DmoeIt6qPK7S1qCXEQaRA_Cy79E&uid=0&sp=uid
 детский0plus[geo-blocked],rtmp://vkvsd182.okcdn.ru/playback/9942884887405?stkn=9VVfByDOizlWlr_rfoRi8TpelV04alIYQ_0Jk3cI_HojytXGIOqVjegIFH3lVi14ozMs9MWxBP0&uid=0&sp=uid
-甄子丹电影[geo-blocked],https://stream1.freetv.fun/ef4f9d40bc9d730028e673c6c4f5d820079f93682e8b053886280a925dd8a275.ctv
-甄子丹电影[geo-blocked],https://stream1.freetv.fun/050b8923a36c5035d71e067389829c8b12c9e47eaf44ff952e09820f8d28aa8e.ctv
-凤凰资讯[geo-blocked],https://stream1.freetv.fun/7d3e0683dbf6e0636efa3bc17815aba2c44580449b0be83ed1e3ca97ed45bccc.ctv
+凤凰资讯[geo-blocked],https://stream1.freetv.fun/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff2ab9bd90217.ctv
 
 
 https://gh.catmak.name/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
