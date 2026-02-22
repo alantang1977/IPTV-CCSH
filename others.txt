@@ -4621,29 +4621,24 @@ J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 
 http://api.mytv666.top/lives/free.php?type=txt,#genre#
 https://iptv.catvod.com/tv.m3u,#genre#
-🎁中学生,https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%AD%A6%E7%94%9F&line=1
-🎁中学生,https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%AD%A6%E7%94%9F&line=2
-🎁中学生,https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%AD%A6%E7%94%9F&line=3
-🎁中学生,https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%AD%A6%E7%94%9F&line=4
-🎁中学生,https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%AD%A6%E7%94%9F&line=5
-🎁中学生,https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%AD%A6%E7%94%9F&line=6
-🎁重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=1
-🎁重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=2
-🎁重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=3
-🎁重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=4
-🎁重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=5
-🎁重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=6
-🎁重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=7
-🎁意甲热那亚VS都灵石庆圣19:15,https://iptv.catvod.com/live.php?id=%E6%84%8F%E7%94%B2%20%E7%83%AD%E9%82%A3%E4%BA%9AVS%E9%83%BD%E7%81%B5%20%E7%9F%B3%E5%BA%86%E5%9C%A3%2019%3A15&line=1
-🎁意甲热那亚VS都灵石庆圣19:15,https://iptv.catvod.com/live.php?id=%E6%84%8F%E7%94%B2%20%E7%83%AD%E9%82%A3%E4%BA%9AVS%E9%83%BD%E7%81%B5%20%E7%9F%B3%E5%BA%86%E5%9C%A3%2019%3A15&line=2
-🎁意甲热那亚VS都灵石庆圣19:15,https://iptv.catvod.com/live.php?id=%E6%84%8F%E7%94%B2%20%E7%83%AD%E9%82%A3%E4%BA%9AVS%E9%83%BD%E7%81%B5%20%E7%9F%B3%E5%BA%86%E5%9C%A3%2019%3A15&line=3
-🎁意甲热那亚VS都灵石庆圣19:15,https://iptv.catvod.com/live.php?id=%E6%84%8F%E7%94%B2%20%E7%83%AD%E9%82%A3%E4%BA%9AVS%E9%83%BD%E7%81%B5%20%E7%9F%B3%E5%BA%86%E5%9C%A3%2019%3A15&line=4
-🎁意甲热那亚VS都灵石庆圣19:15,https://iptv.catvod.com/live.php?id=%E6%84%8F%E7%94%B2%20%E7%83%AD%E9%82%A3%E4%BA%9AVS%E9%83%BD%E7%81%B5%20%E7%9F%B3%E5%BA%86%E5%9C%A3%2019%3A15&line=5
-🎁西甲赫塔菲VS塞维利亚李霄20:45,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E7%94%B2%20%E8%B5%AB%E5%A1%94%E8%8F%B2VS%E5%A1%9E%E7%BB%B4%E5%88%A9%E4%BA%9A%20%E6%9D%8E%E9%9C%84%2020%3A45&line=1
-🎁西甲赫塔菲VS塞维利亚李霄20:45,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E7%94%B2%20%E8%B5%AB%E5%A1%94%E8%8F%B2VS%E5%A1%9E%E7%BB%B4%E5%88%A9%E4%BA%9A%20%E6%9D%8E%E9%9C%84%2020%3A45&line=2
-🎁西甲赫塔菲VS塞维利亚李霄20:45,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E7%94%B2%20%E8%B5%AB%E5%A1%94%E8%8F%B2VS%E5%A1%9E%E7%BB%B4%E5%88%A9%E4%BA%9A%20%E6%9D%8E%E9%9C%84%2020%3A45&line=3
-🎁西甲赫塔菲VS塞维利亚李霄20:45,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E7%94%B2%20%E8%B5%AB%E5%A1%94%E8%8F%B2VS%E5%A1%9E%E7%BB%B4%E5%88%A9%E4%BA%9A%20%E6%9D%8E%E9%9C%84%2020%3A45&line=4
-🎁西甲赫塔菲VS塞维利亚李霄20:45,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E7%94%B2%20%E8%B5%AB%E5%A1%94%E8%8F%B2VS%E5%A1%9E%E7%BB%B4%E5%88%A9%E4%BA%9A%20%E6%9D%8E%E9%9C%84%2020%3A45&line=5
+🎁CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=1
+🎁CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=2
+🎁CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=3
+🎁CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=4
+🎁CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=5
+🎁CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=6
+🎁CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=7
+🎁CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=8
+🎁CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=9
+🎁CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=10
+🎁CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=11
+🎁CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=12
+🎁CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=13
+🎁CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=14
+🎁英超托特纳姆热刺VS阿森纳洪荒00:15,https://iptv.catvod.com/live.php?id=%E8%8B%B1%E8%B6%85%20%E6%89%98%E7%89%B9%E7%BA%B3%E5%A7%86%E7%83%AD%E5%88%BAVS%E9%98%BF%E6%A3%AE%E7%BA%B3%20%E6%B4%AA%E8%8D%92%2000%3A15&line=1
+🎁CCTV风云音乐,https://iptv.catvod.com/live.php?id=CCTV%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90&line=1
+🎁CCTV央视台球,https://iptv.catvod.com/live.php?id=CCTV%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83&line=1
+🎁延边卫视,https://iptv.catvod.com/live.php?id=%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86&line=1
 
 
 https://framagit.org/knnnn/n/-/raw/main/j/kzb.py,#genre#
@@ -4795,17 +4790,16 @@ https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
 
 
 https://live.izbds.com/tv/iptv4.m3u,#genre#
-天映经典,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGm2__qUOGzGCukQtY2ilR797mPHZ6g-lFKX1cV3sAx0FgHx9wBss75ZT3wNOXjvCiYPH52ADPm8Rw5jf70BxNxDab_QGuIB_j-MaHjF3cT68cpuQTcw3r3GJCrlglwUiwADTHKgffYzZgyuD_jAjXJKkqf4iPbRnMNwplTJ2ThhvcIuKkZK0T5ZV-HR8gNqGPKDppMpK6gitsfzcocB7zLQ.m3u8?u=1757123819
-悬疑武侠电影九门,https://yylunbo.ottiptv.cc/yy/1382828768
+广东影视,http://119.32.12.17:2901/udp/224.1.100.11:11111
 欧美配音电影,https://yylunbo.ottiptv.cc/yy/1354693629
-电影电影电影电影电影电影,https://yylunbo.ottiptv.cc/yy/1351496216
 电影黑豹,https://yylunbo.ottiptv.cc/yy/1382736816
 经典电影港片枪战,https://yylunbo.ottiptv.cc/yy/1355076627
-野山鹰影视剧,https://yylunbo.ottiptv.cc/yy/1354932395
+经典电影重温,https://yylunbo.ottiptv.cc/yy/1382793140
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
+广东经济科教,http://119.32.12.17:2901/udp/224.1.100.6:11111
 广西新闻,https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
@@ -4825,6 +4819,7 @@ https://live.izbds.com/tv/iptv4.m3u,#genre#
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 靖宇,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 龙井,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
+大家都在看的电视剧,https://yylunbo.ottiptv.cc/yy/1354930964
 百家讲坛红楼梦篇,https://yylunbo.ottiptv.cc/yy/1382741639
 进来陪你看电视,https://yylunbo.ottiptv.cc/yy/1353518742
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
@@ -4878,6 +4873,10 @@ TV5MONDESTYLE生活时尚「4gTV」,https://tv.iill.top/4gtv/4gtv-live122
 娱乐新闻台,https://cdn6.163189.xyz/163189/ylxw
 TVB星河「多音轨字幕」,https://o11.163189.xyz/stream/live/tvbxh/
 广州南国都市,http://dxa.yiandrive.com:39191/gztv/shenghuo
+东方卫视4K,https://tv.iill.top/kdf/dfws
+新纪实,https://tv.iill.top/kdf/xjs
+魔都眼,https://tv.iill.top/kdf/mdy
+爱上海,https://tv.iill.top/kdf/ash
 湖南卫视「回看」,https://tv.iill.top/migu/hnws
 辽宁卫视「回看」,https://tv.iill.top/migu/lnws
 CHC影迷电影「回看」,https://tv.iill.top/migu/chcym
@@ -5096,8 +5095,9 @@ https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 fifapluswomen[geo-blocked],https://stream1.freetv.fun/37352d9c0bf11af3c0f24364a03a8847b73ae1cc541b6a8ccdcb34db009cc9c5.m3u8
 детский6plus[geo-blocked],rtmp://vkvsd21.okcdn.ru/playback/9707377929063?stkn=DFG1rqI3FgXeZ_htnEwsbN6VQTD1f94i2q76f9zRxAS8Cfi2DmoeIt6qPK7S1qCXEQaRA_Cy79E&uid=0&sp=uid
 детский0plus[geo-blocked],rtmp://vkvsd182.okcdn.ru/playback/9942884887405?stkn=9VVfByDOizlWlr_rfoRi8TpelV04alIYQ_0Jk3cI_HojytXGIOqVjegIFH3lVi14ozMs9MWxBP0&uid=0&sp=uid
-甄子丹电影[geo-blocked],https://stream1.freetv.fun/ef4f9d40bc9d730028e673c6c4f5d820079f93682e8b053886280a925dd8a275.ctv
-凤凰中文[geo-blocked],https://stream1.freetv.fun/a4e7e8c192fe538f4878412af5f611bf10948212e980cf029ac0500a7cb8962f.ctv
+无线新闻[geo-blocked],https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
+凤凰资讯[geo-blocked],https://stream1.freetv.fun/7d3e0683dbf6e0636efa3bc17815aba2c44580449b0be83ed1e3ca97ed45bccc.ctv
+凤凰香港[geo-blocked],https://stream1.freetv.fun/1d0cd71c154df6f70ed3dbf11b59922a12c9ad1ec4f8f1913fdcc17065a24041.m3u8
 
 
 https://gh.catmak.name/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
@@ -5108,7 +5108,7 @@ https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_
 https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv6.txt,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u,#genre#
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
-高尔夫网球,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG-e3QckERZBl56YxtpoYfDGwq2hCqEtXRoH1-aNPIfwb62xpr4bS4Lh9_TUvJJYUUb7oYz-ve30vAfwpogpKGdXmWpenXLLLEPUIauWI89xWxRLLlcrfPXhagvMXr1Z9i4FStTDgAyd5IQE_lRPZyufIWsnNqaHTApBF1DulV-qDXYUlqYoUjFXbyHAtWE-DHSF_aWC2t_X9an6ben_g0wg.m3u8?u=1757123819
+广东少儿,http://119.32.12.17:2901/udp/224.1.100.9:11111
 项城新闻,@http://live.dxhmt.cn:9081/tv/11681-1.m3u8
 项城新闻,@http://p2.weizan.cn/978354/131995006225520039/live.m3u8
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
