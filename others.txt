@@ -4621,11 +4621,35 @@ J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 
 http://api.mytv666.top/lives/free.php?type=txt,#genre#
 https://iptv.catvod.com/tv.m3u,#genre#
-🎁江苏影视频道,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&line=1
-🎁江苏影视频道,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&line=2
-🎁CCTV高尔夫网球,https://iptv.catvod.com/live.php?id=CCTV%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83&line=1
-🎁CCTV高尔夫网球,https://iptv.catvod.com/live.php?id=CCTV%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83&line=2
-🎁安多卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86&line=1
+🎁CCTV5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=1
+🎁CCTV5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=2
+🎁CCTV5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=3
+🎁CCTV5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=4
+🎁CCTV15,https://iptv.catvod.com/live.php?id=CCTV15&line=1
+🎁CCTV15,https://iptv.catvod.com/live.php?id=CCTV15&line=2
+🎁CCTV15,https://iptv.catvod.com/live.php?id=CCTV15&line=3
+🎁CCTV15,https://iptv.catvod.com/live.php?id=CCTV15&line=4
+🎁CCTV15,https://iptv.catvod.com/live.php?id=CCTV15&line=5
+🎁CCTV15,https://iptv.catvod.com/live.php?id=CCTV15&line=6
+🎁CCTV15,https://iptv.catvod.com/live.php?id=CCTV15&line=7
+🎁CGTN法语,https://iptv.catvod.com/live.php?id=CGTN%E6%B3%95%E8%AF%AD&line=1
+🎁CGTN法语,https://iptv.catvod.com/live.php?id=CGTN%E6%B3%95%E8%AF%AD&line=2
+🎁四海钓鱼,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&line=1
+🎁四海钓鱼,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&line=2
+🎁中国农林卫视,https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&line=1
+🎁中国农林卫视,https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&line=2
+🎁江苏国际,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85&line=1
+🎁江苏国际,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85&line=2
+🎁CCTV央视台球,https://iptv.catvod.com/live.php?id=CCTV%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83&line=1
+🎁厦门卫视,https://iptv.catvod.com/live.php?id=%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86&line=1
+🎁厦门卫视,https://iptv.catvod.com/live.php?id=%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86&line=2
+🎁安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=1
+🎁安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=2
+🎁安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=3
+🎁安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=4
+🎁深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&line=1
+🎁深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&line=2
+🎁深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&line=3
 
 
 https://framagit.org/knnnn/n/-/raw/main/j/kzb.py,#genre#
@@ -4777,15 +4801,7 @@ https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
 
 
 https://live.izbds.com/tv/iptv4.m3u,#genre#
-靖天映画,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGoAizwDX2ugIXbPbDhCigHfDjvhlcSwubLm2ffedfFXku6bvyJpxyrIEil4B5LpfVMB8A7gpCCrWNvUSRiXXXeWf1ajMfN0PWvetfPYUdZzzDCXtxjUEpQmUqB1RGqWo2mZ7LEjTph_HtLZJTFi16cFluiQqoa-_n1Cz54-LDR4kIN8-KraW11yGB1XUdSi2hqpxIyqWAX8djADiGB2xKg.m3u8?u=1756878715
 悬疑武侠电影九门,https://yylunbo.ottiptv.cc/yy/1382828768
-欧美配音电影,https://yylunbo.ottiptv.cc/yy/1354693629
-电影电影电影电影电影电影,https://yylunbo.ottiptv.cc/yy/1351496216
-电影黑豹,https://yylunbo.ottiptv.cc/yy/1382736816
-纬来电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LypZl51sr4vf3DGhZh3g1VUuuJLW7HVy471lEuDO-YH11Gl0MCkU9WPcq_d0755X83srub1-XHBE5VbZ_j0gx5SPYEI5SLQlIljrPPsTmql9SFpa6P4IOxG5COwYIkcjPYJSXp8eyJ2SYELzoWKcB5ls02Ml0ER2jnqJTLQouDP-GRTvxVnAv-md1jJ8pOhWFPA.m3u8?u=1756878715
-经典港片电影,https://yylunbo.ottiptv.cc/yy/1461889059
-经典电影港片枪战,https://yylunbo.ottiptv.cc/yy/1355076627
-经典电影重温,https://yylunbo.ottiptv.cc/yy/1382793140
 野山鹰影视剧,https://yylunbo.ottiptv.cc/yy/1354932395
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
@@ -4810,10 +4826,10 @@ https://live.izbds.com/tv/iptv4.m3u,#genre#
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 靖宇,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 龙井,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
-大家都在看的电视剧,https://yylunbo.ottiptv.cc/yy/1354930964
 民间怪谈盗暮,https://yylunbo.ottiptv.cc/yy/1355171231
 百家讲坛红楼梦篇,https://yylunbo.ottiptv.cc/yy/1382741639
 进来陪你看电视,https://yylunbo.ottiptv.cc/yy/1353518742
+闲暇观看综艺,https://yylunbo.ottiptv.cc/yy/1354932379
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 
@@ -4821,6 +4837,10 @@ https://live.izbds.com/tv/iptv6.m3u,#genre#
 
 
 https://tv.iill.top/m3u/Gather,#genre#
+TNTSport1,https://hls.iill.top/api/TNT-Sports-1/index.m3u8
+TNTSport2,https://hls.iill.top/api/TNT-Sports-2/index.m3u8
+TNTSport3,https://hls.iill.top/api/TNT-Sports-3/index.m3u8
+TNTSport4,https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 beINSports4,https://hls.iill.top/api/beIN-Sports-4/index.m3u8
 beINSports5,https://hls.iill.top/api/beIN-Sports-5/index.m3u8
 HubPremier2,https://hls.iill.top/api/Hub-Premier-2/index.m3u8
@@ -4865,10 +4885,15 @@ TV5MONDESTYLE生活时尚「4gTV」,https://tv.iill.top/4gtv/4gtv-live122
 娱乐新闻台,https://cdn6.163189.xyz/163189/ylxw
 TVB星河「多音轨字幕」,https://o11.163189.xyz/stream/live/tvbxh/
 广州南国都市,http://dxa.yiandrive.com:39191/gztv/shenghuo
-东方卫视4K,https://tv.iill.top/kdf/dfws
-新纪实,https://tv.iill.top/kdf/xjs
-魔都眼,https://tv.iill.top/kdf/mdy
-爱上海,https://tv.iill.top/kdf/ash
+东方卫视4K「回看」,https://tv.iill.top/kdf/2030
+五星体育「回看」,https://tv.iill.top/kdf/1605
+第一财经「回看」,https://tv.iill.top/kdf/21
+上海新闻综合「回看」,https://tv.iill.top/kdf/20
+上海都市频道「回看」,https://tv.iill.top/kdf/18
+魔都眼「回看」,https://tv.iill.top/kdf/1601
+新纪实,https://tv.iill.top/kdf/1600
+爱上海,https://tv.iill.top/kdf/2029
+浙江卫视4K,http://play-qukan.cztv.com/live/1758879019692345.m3u8
 湖南卫视「回看」,https://tv.iill.top/migu/hnws
 辽宁卫视「回看」,https://tv.iill.top/migu/lnws
 CHC影迷电影「回看」,https://tv.iill.top/migu/chcym
@@ -5087,8 +5112,8 @@ https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 fifapluswomen[geo-blocked],https://stream1.freetv.fun/37352d9c0bf11af3c0f24364a03a8847b73ae1cc541b6a8ccdcb34db009cc9c5.m3u8
 детский6plus[geo-blocked],rtmp://vkvsd21.okcdn.ru/playback/9707377929063?stkn=DFG1rqI3FgXeZ_htnEwsbN6VQTD1f94i2q76f9zRxAS8Cfi2DmoeIt6qPK7S1qCXEQaRA_Cy79E&uid=0&sp=uid
 детский0plus[geo-blocked],rtmp://vkvsd182.okcdn.ru/playback/9942884887405?stkn=9VVfByDOizlWlr_rfoRi8TpelV04alIYQ_0Jk3cI_HojytXGIOqVjegIFH3lVi14ozMs9MWxBP0&uid=0&sp=uid
-discoverykids,https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.ctv
-凤凰资讯[geo-blocked],https://stream1.freetv.fun/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff2ab9bd90217.ctv
+discoverykids[geo-blocked],https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.ctv
+凤凰中文[geo-blocked],https://stream1.freetv.fun/a4e7e8c192fe538f4878412af5f611bf10948212e980cf029ac0500a7cb8962f.ctv
 凤凰香港[geo-blocked],https://stream1.freetv.fun/1d0cd71c154df6f70ed3dbf11b59922a12c9ad1ec4f8f1913fdcc17065a24041.m3u8
 
 
@@ -5100,9 +5125,7 @@ https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_
 https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv6.txt,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u,#genre#
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
-高尔夫网球,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG-e3QckERZBl56YxtpoYfDGwq2hCqEtXRoH1-aNPIfwb62xpr4bS4Lh9_TUvJJYUUb7oYz-ve30vAfwpogpKGdXmWpenXLLLEPUIauWI89xWxRLLlcrfPXhagvMXr1Z9i4FStTDgAyd5IQE_lRPZyufIWsnNqaHTApBF1DulV-qDXYUlqYoUjFXbyHAtWE-DHSF_aWC2t_X9an6ben_g0wg.m3u8?u=1757123819
-天映经典,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGm2__qUOGzGCukQtY2ilR797mPHZ6g-lFKX1cV3sAx0FgHx9wBss75ZT3wNOXjvCiYPH52ADPm8Rw5jf70BxNxDab_QGuIB_j-MaHjF3cT68cpuQTcw3r3GJCrlglwUiwADTHKgffYzZgyuD_jAjXJKkqf4iPbRnMNwplTJ2ThhvcIuKkZK0T5ZV-HR8gNqGPKDppMpK6gitsfzcocB7zLQ.m3u8?u=1757123819
-天映经典,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU2jH_Pl6VqGBxHA1IcsitfbKBR673Nu6KG0a27h2exhgUv2dW7fXLtqFZUFX8lctnx2REX0_9N_OE-shnVLOGaoO-0m2O1w2pp5b8sE82sD6hkqtKyg0TkrETYUXvMKUXU9iNc9OW1bvzOvWqkjmjiDdB0XQq2Ci1iWw5fVRe7CRLJb6cHe9q13apio-Vp0OMIvhoPz6HTwp5r3Ay9JXAsQ.m3u8?u=1756878715
+经典港片电影,https://yylunbo.ottiptv.cc/yy/1461889059
 项城新闻,@http://live.dxhmt.cn:9081/tv/11681-1.m3u8
 项城新闻,@http://p2.weizan.cn/978354/131995006225520039/live.m3u8
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
@@ -5163,13 +5186,29 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
+ABC15PhoenixAZ(KNXV),https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8
+ABC23BakersfieldCA(KERO),https://aegis-cloudfront-1.tubi.video/69c4e4f9-84fa-43eb-b38e-6d1f9464ca73/playlist.m3u8
+ABC27TallahasseeFL(WTXL),https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
+Cars.TV,https://dvrfl04.tulix.tv/teleup-carstv/mpegts
+CBS3OmahaNE(KMTV),https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
+ComedyTV,https://dvrfl04.tulix.tv/teleup-comedytv/mpegts
 DidgahTV(576p),https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
+DraftKingsNetwork,https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
 GlobalWorldTV,https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
+JusticeCentralTV,https://dvrfl04.tulix.tv/teleup-justice/mpegts
+KSHB-DT1,https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
 KUVN-DT1,https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
 MSNOW,http://41.205.93.154/MSNBC/index.m3u8
+NBC6SantaBarbaraCA(KSBY),https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playlist.m3u8
+NBC26GreenBayWI(WGBA),https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8
+Pasiones,https://dvrfl04.tulix.tv/teleup-pasiones/mpegts
+ScrippsNews,https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
 SportsTVPlus,https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now
+TDAmeritradeNetwork,https://tdameritrade-distro.amagi.tv/playlist.m3u8
 VidaMejorTV,https://tgn.bozztv.com/betterlife/bettervida/bettervida/index.m3u8
 WNET-DT1[Not24/7],https://tvpass.org/live/WNET/hd
+WSCV-DT1,http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
+WXXA-DT3,https://dvrfl04.tulix.tv/teleup-laff/mpegts
 
 
 https://iptv-org.github.io/iptv/countries/tw.m3u,#genre#
