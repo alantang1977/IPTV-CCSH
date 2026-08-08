@@ -5792,6 +5792,7 @@ https://gh.catmak.name/https://raw.githubusercontent.com/big-mouth-cn/tv/main/ip
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
 句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -5917,7 +5918,6 @@ PBSKids,https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/e
 QVC2,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 Showtime,http://40.160.24.55/SHOWTIME/index.m3u8
 Telemundo,http://45.190.13.8/TelemundoHD/index.m3u8
-TelemundoWest[Geo-blocked],https://messi.damitv.st/papi/ts/telemundo-usa/playlist.m3u8
 TUDN[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 WGBO-DT66.1(2160p),https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null
 WPIX(576p),https://tvsen6.aynaott.com/pix11/index.m3u8
