@@ -4058,13 +4058,14 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
+atv,https://stream1.freetv.fun/c879816a86f4bb3fd2f95098e7ca8bf0eb998d9cf641b4193f606bf9b8c28934.m3u8
 cctv-12社会与法[geo-blocked],https://stream1.freetv.fun/8fec588fa09e356552f56f5e64a875f44c72f6ef785b0d2b4bbd6527f64e804e.ctv
+cctv1,https://stream1.freetv.fun/03f7309c87f8123b414526cdb3af993423055700d321370f2452910618907527.m3u8
 cctv1,rtmp://yftv-wshls.yzbtv.cn/live/4387
 周星驰电影*$,https://stream1.freetv.fun/bedafa2f83a8fd0cb71918ac83582f6dd3ad25c6da27869e38a2e9bd25825a26.m3u8
 周润发电影*$,https://stream1.freetv.fun/181ff4ff73e7320b2ad0795b6a8c32145f54bc8961354ab3160093641564b438.m3u8
 星空卫视*$,https://stream1.freetv.fun/c699f8d5e9d547dd164dd3f4990d2974ef3fa73b3f4f82678fa854610dd0edff.m3u8
 林正英影院*$,https://stream1.freetv.fun/34b9e858a6ac4dbf8019192458fe6c81c77298a350702158b8182ac937f47235.m3u8
-无线新闻[geo-blocked],https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.ctv
 凤凰电影*$,https://stream1.freetv.fun/857fbc509d99a650aa2fcc8378757a498c921707045def964734f7960accbe7b.m3u8
 
 
@@ -4162,16 +4163,22 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
+AlbanianTVAmerica,http://5.254.89.106/8711/index.m3u8
 beINSportsUSA[Geo-blocked],https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8
 BetterLifeNatureChannel,https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 BetterLifeTV,https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
 Freeform[Geo-blocked],https://messi.damitv.st/papi/ts/freeform-usa/playlist.m3u8
+KMCT-TV39.1,https://wggstv16.ddns.net:9953/hls/KMCT1.m3u8
+Lifetime(576p),https://tvsen7.aynaott.com/lifetime/index.m3u8
 LifevisionTV(406p)[Not24/7],https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
 LivingFaithTV(540p),https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
 MLBNetwork[Geo-blocked],https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8
+MoreMaxEastHD,https://sra72yz.s.gy/MORE_MAX_EAST_HD.m3u8
 NBCSportsPhiladelphia[Geo-blocked],https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8
+TheDoctors,https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
 TVSSports[Not24/7],https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 TVSTallyHo(360p),https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8
+WGGS-TV16.1,https://wggstv16.ddns.net:9953/hls/WGGS1.m3u8
 ТНТInternational,https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
 
@@ -4204,6 +4211,8 @@ https://m3u.ibert.me/txt/y_g.txt,#genre#
 http://xhztv.top/v6.txt,#genre#
 https://gitee.com/tushaoyong/live/raw/master/接口/IPV6.txt,#genre#
 http://tot.totalh.net/tttt.txt,#genre#
+
+
 https://codeberg.org/sy147258/iptv/raw/branch/main/电视,#genre#
 https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-CU-ipv6.m3u,#genre#
 https://a90120.serv00.net/anbox/p3plink.txt,#genre#
