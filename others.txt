@@ -5151,6 +5151,7 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
+海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 刑事侦缉档案,https://live.metshop.top/huya/29465856
 刘德华电影,https://live.metshop.top/huya/11342424
 创世纪,https://live.metshop.top/huya/29465852
@@ -5204,7 +5205,10 @@ CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 黄渤电影,https://live.metshop.top/huya/11352876
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+武进生活,http://live.wjyanghu.com/live/CH2.m3u8
+镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
@@ -5308,9 +5312,11 @@ ABC27TallahasseeFL(WTXL),https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4ca
 ABCWWAY3,https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
 AllWeddingsWeTV,https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
 AMC,http://23.239.31.26:8989/amc/index.m3u8
+AMCenEspanol,https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 America'sTestKitchen,https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
 ANIMExHIDIVE,https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
 ArkansasPBS[Geo-blocked],https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
+AspireTVLife,https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
 AVIRewind,http://45.70.201.81:8000/play/a010/index.m3u8
 BloombergTVUSPoliticsLiveEvent,https://bloomberg.com/media-manifest/streams/politics.m3u8
 BluesTV,https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
@@ -5326,6 +5332,7 @@ CBS12WestPalmBeachFL(WPEC),https://linear-692.frequency.stream/dist/stirr/692/hl
 CBS22SouthBendIN(WSBT),https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8
 CBS42AustinTX(KEYE),https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8
 CBSSportsHQ,https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+CinemaxClassics,http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 ClassicTVCrimeDrama,https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
 CoastTVNBC(WRDE-LD)[Not24/7],https://live.field59.com/wrde/wrde1/playlist.m3u8
 ElectricNow,https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
@@ -5346,6 +5353,8 @@ Freeform,http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 GebTv(KBPXLD5),https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 God'sLearningChannel,https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 HarvestUSA(576p),https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+HBOHits,http://tvsen7.aynascope.net/hbo2/index.m3u8
+HBOMovies,http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 IONTV,http://23.237.104.106:8080/USA_ION/index.m3u8
 KATC3.1,http://stream.cammonitorplus.net/1753/index.m3u8
 KCKS-LD25.3,https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8
