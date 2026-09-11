@@ -4004,6 +4004,7 @@ https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 AllRealityWEtv,https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
 AmericanHorrors,http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 ANIMExHIDIVE,https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
+FoxNewsChannel,http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 FunnyAF,https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
 HCTVGovernmentChannel,https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8
 Life!ChristianBroadcastingNetwork(360p),https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
