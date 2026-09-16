@@ -3905,12 +3905,10 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
-cctv-12社会与法[geo-blocked],https://stream1.freetv.fun/8fec588fa09e356552f56f5e64a875f44c72f6ef785b0d2b4bbd6527f64e804e.ctv
 cctv-5体育[geo-blocked],https://stream1.freetv.fun/879e5711563465069616775f329a9231f38887c8146e7e06f2a86f766caa774d.ctv
 cctv-1,https://stream1.freetv.fun/aca593418a5d387996e89adf3a0452856e5623d7759d2ff35078a7e3968f47e8.m3u8
 cctv-4k超,https://stream1.freetv.fun/2e338d7416c3646f38a085799295f137668d96a80a4393b71f1b82735ebdc7e8.m3u8
 cctv-4k超,https://stream1.freetv.fun/3788e4fd295011461ce6ef1f10f19c7a7b379cd6adc4e7892222e5b140f1fb0f.m3u8
-truemoviehits,https://stream1.freetv.fun/fd0ec99f6927993f095e7a180e1a28051a9e687e4d409308f7cbfa78cf0ee364.ctv
 mahamovie,https://stream1.freetv.fun/add6cb23730d4627e6d07b38625043714265bb8ddb670d4d68d80820c78b0690.m3u8
 
 
@@ -3932,8 +3930,11 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 枪战电影,https://live.metshop.top/huya/21059579
 武侠电影,https://live.metshop.top/huya/11342427
 沈腾电影,https://live.metshop.top/huya/11601968
+玄幻电影,https://live.metshop.top/huya/11342414
+罪犯电影,https://live.metshop.top/huya/11352962
 黄渤电影,https://live.metshop.top/huya/11352876
-龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
+句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
