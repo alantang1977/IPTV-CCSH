@@ -3872,6 +3872,8 @@ https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_
 https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv6.txt,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u,#genre#
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
+支持作者,https://vd2.bdstatic.com/mda-sctj0f96cn79js4n/1080p/cae_h264/1774710384405617311/mda-sctj0f96cn79js4n.mp4
+靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 刘德华电影,https://live.metshop.top/huya/11342424
 周星驰电影,https://live.metshop.top/huya/11342412
 成龙电影,https://live.metshop.top/huya/11342386
@@ -3879,7 +3881,6 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 林正英电影,https://live.metshop.top/huya/11342421
 枪战电影,https://live.metshop.top/huya/21059579
 沈腾电影,https://live.metshop.top/huya/11601968
-广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
@@ -3959,6 +3960,7 @@ https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 BattlestarGalactica,https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
 BloombergTV,http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 F1Channel[Geo-blocked],https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+Galavision[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 GCNAmerica,http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
 MonroeCommunityMediaPublicAccessChannel,https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8
 
