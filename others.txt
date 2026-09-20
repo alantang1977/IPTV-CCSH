@@ -3881,6 +3881,7 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 林正英电影,https://live.metshop.top/huya/11342421
 枪战电影,https://live.metshop.top/huya/21059579
 沈腾电影,https://live.metshop.top/huya/11601968
+广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
@@ -3959,10 +3960,13 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 BattlestarGalactica,https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
 BloombergTV,http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+ComedyCentral(UnitedStates)(576p),https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8
 F1Channel[Geo-blocked],https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
-Galavision[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
+FX(UnitedStates)EastHD,http://4.30.180.36:8420/fx/index.m3u8?token=test
+GalavisionEastHD[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 GCNAmerica,http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
 MonroeCommunityMediaPublicAccessChannel,https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8
+Unbeaten,https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 
 
 https://iptv-org.github.io/iptv/countries/tw.m3u,#genre#
@@ -4029,8 +4033,6 @@ https://gh.catmak.name/https://raw.githubusercontent.com/qingwen07/awesome-iptv/
 https://gh.catmak.name/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.m3u,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt,#genre#
 https://iptv.b2og.com/txt/fmml_ipv6.txt,#genre#
-
-
 https://m3u.ibert.me/txt/fmml_dv6.txt,#genre#
 https://m3u.ibert.me/txt/o_cn.txt,#genre#
 Xinjiang_TV_2,http://110.153.180.106:55555/out_3/index.m3u8
