@@ -3873,7 +3873,7 @@ https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_
 https://gh.catmak.name/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u,#genre#
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 支持作者,https://vd2.bdstatic.com/mda-sctj0f96cn79js4n/1080p/cae_h264/1774710384405617311/mda-sctj0f96cn79js4n.mp4
-靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
+海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 刘德华电影,https://live.metshop.top/huya/11342424
 周星驰电影,https://live.metshop.top/huya/11342412
 成龙电影,https://live.metshop.top/huya/11342386
