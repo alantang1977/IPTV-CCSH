@@ -4118,15 +4118,19 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 AmericanHorrors,http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+CNBC[Geo-blocked],http://41.205.93.154/CNBC/index.m3u8
 ESNETV,http://190.217.66.92:8000/play/a0fp/index.m3u8
 EstrellaTVWMBC-TV,http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
 FaithTV,https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
+FoxBusinessNetwork(576p),https://tvsen6.aynaott.com/foxbusiness/index.m3u8
 NewK-POP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 NewK.MOVIES,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
 ParamountNetwork(432p),http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8
 TennisChannel,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 TVSFilmNoirNetwork,https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
 TVSTavern,https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8
+UniMasWFUT-DT[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
+USANetwork,http://190.197.41.183/USA_NETWORK/index.m3u8
 VH1(432p),http://193.254.245.162/VH1/index.m3u8
 
 
