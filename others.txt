@@ -3803,6 +3803,7 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
+atvplus,https://stream1.freetv.fun/f349080d4631a41e91634a88cf5f68af55a85a8239f6ecd5fd5ee69f611ba075.m3u8
 
 
 https://gh.catmak.name/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
@@ -3899,8 +3900,22 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
+AmericanHeroesChannel,http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
+AnimalPlanet,http://23.239.31.26:8989/animalplanet/index.m3u8
+AnimalPlanetEastHD,http://193.254.245.162/ANIMAL-PLANET/index.m3u8
+CNNChile,http://190.110.96.238:8000/play/a0f5/index.m3u8
+CookingChannel,http://23.237.104.106:8080/USA_COOKING/index.m3u8
+DiscoveryChannel[Geo-blocked],http://212.5.144.156:8080/discovery/index.m3u8
+FoodNetwork,http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+HLN,http://23.237.104.106:8080/USA_HLN/index.m3u8
+InvestigationDiscovery[Geo-blocked],http://212.5.144.156:8080/id/index.m3u8
+MagnoliaNetwork,http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8
+MBC1USA[Geo-blocked],https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
+MBC3USA[Geo-blocked],https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 NewK.MOVIES,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
+OWN,http://23.237.104.106:8080/USA_OWN/index.m3u8
 PSLTV(360p),https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8
+RTNChicago,https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8
 
 
 https://iptv-org.github.io/iptv/countries/tw.m3u,#genre#

@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz"
-#EXTINF:-1  tvg-name="20261009 08:05" tvg-logo="https://epg.112114.free.hr/logo/20261009 08:05.png"  group-title="更新时间",20261009 08:05
+#EXTINF:-1  tvg-name="20261010 07:45" tvg-logo="https://epg.112114.free.hr/logo/20261010 07:45.png"  group-title="更新时间",20261010 07:45
 https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4?contentid=2820180516001
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://epg.112114.free.hr/logo/CCTV1.png"  group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
