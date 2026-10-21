@@ -3919,8 +3919,12 @@ https://live.hacks.tools/iptv/languages/zho.m3u,#genre#
 BeijingSatelliteTVHD,http://go.bkpcp.top/mg/bjws
 CCTV13HD,http://go.bkpcp.top/mg/cctv13
 CTS,rtmp://59.124.75.138:1935/sat/tv111
+EBCForeignMovie,http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
+HunanEconomyChannel,https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 KIX,https://freem3u.xyz/api/live/play.m3u8?vid=9901
 LanzhouCulture&TourismChannel,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
+PTS3,http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
+SJTV,http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
 
 
 https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
@@ -4037,6 +4041,7 @@ cctv-5体育[geo-blocked],https://stream1.freetv.fun/879e5711563465069616775f329
 cctv-1hd,https://stream1.freetv.fun/d61aa6b7302b43c9b1a30ebe8f085d7e892f6982c299c9f0d4e6eceec35396e2.m3u8
 cctv1综合,https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c513819c63050a91cf9cdfe4ab196.ctv
 kix,https://stream1.freetv.fun/482fc1351cc36a139ebaf7306f56cab38b03d890c05a5482b22063d369702565.m3u8
+ebcforeignmovie,https://stream1.freetv.fun/5b52fbb1e26701290423180c3cdcf2f3bedda2de1793d7f00f5108327753c23e.m3u8
 now新闻,https://stream1.freetv.fun/20616f66b86683e10fd7ea8e601cf70ac08ba2a8b3c17241fcf398fcdec43753.ctv
 tvbplus,https://stream1.freetv.fun/70d6657916cfa5ded14dcf78c81e9a726d3e649581659fd0c6d550ac1f3fe0ee.ctv
 tvpuls,https://stream1.freetv.fun/ca3ef0d86499c5532593cd3f5f8e1e49b5cb6e458df18d5e4819e830955af5da.m3u8
@@ -4063,11 +4068,11 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 林正英电影,https://live.metshop.top/huya/11342421
 枪战电影,https://live.metshop.top/huya/21059579
 沈腾电影,https://live.metshop.top/huya/11601968
-电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
 贺岁电影,https://live.metshop.top/huya/11601986
 句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
@@ -4141,6 +4146,9 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
+AmericanNinjaWarrior,https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318
+BotflixRadioo,https://hls.botflix.tv/radioo/index.m3u8
+BotflixTV,https://hls.botflix.tv/tv/index.m3u8
 CNNenEspanol,https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 HauntTV,https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
 Lucas&Friends,https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8
@@ -4213,12 +4221,11 @@ https://gh.catmak.name/https://raw.githubusercontent.com/qingwen07/awesome-iptv/
 https://gh.catmak.name/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.m3u,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt,#genre#
 https://iptv.b2og.com/txt/fmml_ipv6.txt,#genre#
-
-
 https://m3u.ibert.me/txt/fmml_dv6.txt,#genre#
 https://m3u.ibert.me/txt/o_cn.txt,#genre#
 Xinjiang_TV_2,http://110.153.180.106:55555/out_3/index.m3u8
 Xinjiang_TV_3,http://110.153.180.106:55555/out_2/index.m3u8
+Xinjiang_TV_5,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13_,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV1_,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2_,http://74.91.26.218:82/live/cctv2hd.m3u8
@@ -4227,7 +4234,7 @@ CCTV7_,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV10_,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV8_,http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV11_,http://74.91.26.218:82/live/cctv11hd.m3u8
-CCTV15_,https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV15_,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV12_,http://74.91.26.218:82/live/cctv12hd.m3u8
 
 
