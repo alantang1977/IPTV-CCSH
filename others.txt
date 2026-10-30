@@ -3804,8 +3804,10 @@ BeijingSatelliteTVHD,http://go.bkpcp.top/mg/bjws
 CCTV13HD,http://go.bkpcp.top/mg/cctv13
 CTS,rtmp://59.124.75.138:1935/sat/tv111
 HunanTV(2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+JingmenComprehensiveNewsChannel,https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
 LanzhouCulture&TourismChannel,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 LoveNatureHD,https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
+TTVNews,https://live.wcetv.com/hls/master-ttvnews.m3u8
 XizangTVChinese,https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 
 
@@ -3921,6 +3923,10 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
+cctv-1,https://stream1.freetv.fun/9f1b84dd3a947a7915d0bc74607ef26453ecebe1bbc5d5c0fa624007ac18b0ec.m3u8
+etvplus,https://stream1.freetv.fun/8173d90ec9bd3b1d59a1a4a7a0d378d2322697a3d8412caffb4c6da6913e555b.m3u8
+tvpuls,https://stream1.freetv.fun/584826faad23e8b9c5e5cdeb8c4f8ad2e22343d0035df868bb525489a75c3654.m3u8
+prime,https://stream1.freetv.fun/e6a2e56b74d1d5290d8219e1973f4b7b0bf1e85e98130a210eade1ede67360ef.m3u8
 
 
 https://gh.catmak.name/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
@@ -3931,6 +3937,7 @@ https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_
 https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv6.txt,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u,#genre#
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
+支持作者,https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
@@ -4009,9 +4016,11 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 CNNenEspanol,https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 EbonyTVbyLionsgate,https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+HBCU-GOSports,https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8
 OnTV4U[Geo-blocked],https://stirr.b-cdn.net/stirr/playlist.m3u8
 OutsideTV,https://outsidetv-firetv.amagi.tv/playlist.m3u8
 SGTN-49,https://rpn.bozztv.com/gusa/gusa-stgn/index.m3u8
+SonyMovies(UnitedStates),https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 TVEInternacionalAmericaHD[Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 TVSBowlingNetwork,https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
 
@@ -4080,8 +4089,6 @@ https://gh.catmak.name/https://raw.githubusercontent.com/qingwen07/awesome-iptv/
 https://gh.catmak.name/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.m3u,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt,#genre#
 https://iptv.b2og.com/txt/fmml_ipv6.txt,#genre#
-
-
 https://m3u.ibert.me/txt/fmml_dv6.txt,#genre#
 https://m3u.ibert.me/txt/o_cn.txt,#genre#
 Xinjiang_TV_2,http://110.153.180.106:55555/out_3/index.m3u8
