@@ -4361,6 +4361,7 @@ https://web.banye.tech:7777/tv/hlj.txt,#genre#
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/电视.txt,#genre#
 http://xn--elt51t.azip.dpdns.org:5008/?type=txt,#genre#
 https://live.hacks.tools/iptv/languages/zho.m3u,#genre#
+CCTV4Europe,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cctv_4/live.livx/playlist.m3u8
 CCTV13HD,http://go.bkpcp.top/mg/cctv13
 CTS,rtmp://59.124.75.138:1935/sat/tv111
 GuangxiVariety&TravelChannel,http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
@@ -4474,7 +4475,7 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
-cctv-1[geo-blocked],https://stream1.freetv.fun/aca593418a5d387996e89adf3a0452856e5623d7759d2ff35078a7e3968f47e8.m3u8
+cctv-1,https://stream1.freetv.fun/aca593418a5d387996e89adf3a0452856e5623d7759d2ff35078a7e3968f47e8.m3u8
 etvplus,https://stream1.freetv.fun/5b362aebd855060e561d01e79dc94046ca7229ba663b13080aeeb5410bbbdcef.m3u8
 翡翠,https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.m3u8
 
@@ -4489,10 +4490,14 @@ https://gh.catmak.name/https://raw.githubusercontent.com/big-mouth-cn/tv/main/ip
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 刘德华电影,https://live.metshop.top/huya/11342424
 周星驰电影,https://live.metshop.top/huya/11342412
+成龙电影,https://live.metshop.top/huya/11342386
+末日电影合集,https://live.metshop.top/yy/1354889019
 李连杰电影,https://live.metshop.top/huya/11342390
 林正英电影,https://live.metshop.top/huya/11342421
 枪战电影,https://live.metshop.top/huya/21059579
 沈腾电影,https://live.metshop.top/huya/11601968
+哆啦A梦,https://live.metshop.top/huya/11601963
+喜羊羊与灰太狼,https://live.metshop.top/huya/23865080
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -4501,7 +4506,7 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
-西安新闻,http://112.46.105.20:8009/hls/28/index.m3u8
+陕西秦腔,http://112.46.105.20:8009/hls/22/index.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
@@ -4517,6 +4522,7 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 靖宇,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 龙井,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
+谈判专家,https://live.metshop.top/yy/1382735560
 
 
 https://jihulab.com/-/snippets/5265/raw/main/.txt,#genre#
