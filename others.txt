@@ -4377,6 +4377,8 @@ https://l.gmbbk.com/upload/46004600.txt,#genre#
 
 
 https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u,#genre#
+
+
 https://gh.catmak.name/https://raw.githubusercontent.com/hostemail/cdn/main/live/tv.txt,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/Alan-Alana/IPTV/refs/heads/main/channl.txt,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/peterHchina/iptv/refs/heads/main/IPTV-V4.m3u,#genre#
@@ -4510,6 +4512,7 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
+cctv1综合,https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c513819c63050a91cf9cdfe4ab196.ctv
 
 
 https://gh.catmak.name/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
@@ -4531,6 +4534,7 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
+武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 西安都市,http://112.46.105.20:8009/hls/29/index.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
@@ -4613,13 +4617,19 @@ ABCNewsLive10,https://abcnews-livestreams.akamaized.net/out/v1/6a597119dbd5428a8
 AmericanHorrors,http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 Cinevault80s(540p)[Geo-blocked],https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
 ComedyDynamics,https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8
+CuriosityNOWEN,https://eafbca58.wurl.com/master/319dc4325e352117ff2ba16d22f2fb8968990c39/U2VsZWN0VFZfQ3VyaW9zaXR5Tk9XVVNfSExT/playlist.m3u8
+FINTECH.TV,https://ftv247iovescdn1.fintech.tv/hls/main.m3u8
 Gagsnetwork(576p),http://s7.merlive.am/gagsnetwork/index.m3u8
 GordonRamsay'sHell'sKitchen,https://jmp2.uk/plu-62ea45010d0611000839868c.m3u8
+HumorMill,https://du1gyxfing4ke.cloudfront.net/scheduler/scheduleMaster/152.m3u8
 JohnnyCarsonTV,https://vizioaaaa-johnnycarson-vizio-8fyqr.amagi.tv/playlist/vizioAAAA-johnnycarson-vizio/playlist.m3u8
 MidpenMediaCenterChannel26,https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
+MTVLive,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 NewK-POP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 NewK.MOVIES,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
 News12NewYork,https://cda7bae2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTmV3czEyTmV3WW9ya19ITFM/playlist.m3u8
+RealLifeNetwork,https://300abc84139140e9b7942f8bfa6edc1a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1170-REALLIFENETWORK-FREECAST/mt/freecast/1170/hls/master/playlist.m3u8
+Reelz,https://a-cdn.klowdtv.com/live2/reelz_720p/playlist.m3u8
 ReelzFamous&Infamous,https://linear-190.frequency.stream/mt/vizio/190/hls/master/playlist.m3u8
 RTR-PlanetaUS[Geo-blocked],https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8
 SpiritTV[Not24/7],https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
